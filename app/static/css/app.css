@@ -5,3 +5,10 @@ body {
 footer  {
     padding-top: 20px;
 }
+
+.middle{
+    width:800px;
+    text-align: center;
+    margin:0 auto;
+
+}
